@@ -7,7 +7,6 @@ node_modules/
 
 #IDE file
 .idea
-.vscode
 
 # testing
 /coverage
@@ -34,3 +33,7 @@ yarn-error.log*
 
 # ESLint cache
 *.eslintcache
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
